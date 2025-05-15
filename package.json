@@ -1,0 +1,15 @@
+{
+  "name": "markdown_cv_demo",
+  "version": "1.0.0",
+  "description": "This folder includes an ATS-friendly resume in Markdown (`cv.md`) and a corresponding stylesheet (`style.css`).",
+  "main": "index.js",
+  "scripts": {
+    "build": "md-to-pdf ./cvs/em.md --stylesheet style.css --dest-path ./pdfs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}
