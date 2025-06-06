@@ -4,18 +4,14 @@
   "description": "This folder includes an ATS-friendly resume in Markdown (`cv.md`) and a corresponding stylesheet (`style.css`).",
   "main": "index.js",
   "scripts": {
-    "em": "md-to-pdf ./cvs/em.md --stylesheet ./styles/cv-styling.css --output ./pdfs",
     "build": "node generate-pdf.js",
-    "preview": "node generate-pdf.js --preview",
-    "live": "node live-preview.js"
+    "watch": "node generate-pdf.js --watch"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "md-to-pdf": "^5.2.4"
-  },
-  "devDependencies": {
-    "live-server": "^1.2.2"
+    "md-to-pdf": "^5.2.4",
+    "chokidar": "^3.5.3"
   }
 }
