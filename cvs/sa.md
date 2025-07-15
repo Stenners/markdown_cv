@@ -4,9 +4,9 @@
 
 ## About Me
 
-I'm a technology and engineering leader with 20+ years of experience designing, scaling, and modernising cloud-native platforms. I combine deep architectural and delivery expertise with a people-first approach to leadership, fostering innovation, accountability, and high performance across Web, Mobile, API, Data, and AI teams.
+I’m an experienced technology leader with a background spanning architecture and engineering. Over the past 20+ years, I’ve designed, scaled, and modernised cloud-native platforms across web, mobile, data, and AI. I lead with a focus on clarity, trust, and outcomes, balancing hands-on technical depth with a strong sense of how to support people and drive strategy.  
 
-I'm passionate about aligning technical strategy with business priorities, solving meaningful problems with future-ready solutions, and building resilient, empowered teams that can deliver exceptional outcomes at scale.
+I care about solving real business problems with well-considered, durable solutions, and building teams that are confident, capable, and ready for what’s next.
 
 <div class="page-spacer"></div>
 
@@ -17,7 +17,7 @@ I'm passionate about aligning technical strategy with business priorities, solvi
 **Frameworks:** React, Next.js, React Native, Vue, GraphQL, Express  
 **Architecture:** Event-driven design, RESTful APIs, Microservices  
 **DevOps:** Trunk-based dev, CI/CD, Crossplane, Argo  
-**Databases:** PostgreSQL, Firestore, Mongo, BigQuery, Delta Lake, MySQL  
+**Databases:** PostgreSQL, Firestore, Mongo, BigQuery, Delta Lake    
 **Practices:** Agile, TDD/BDD, Shift-left QA, Test automation  
 
 <div class="page-spacer"></div>
@@ -35,7 +35,7 @@ I'm passionate about aligning technical strategy with business priorities, solvi
 
 ### Southern Cross Austereo
 
-**Engineering Manager**  
+**Engineering Manager - Architecture & Engineering Practice**  
 *June 2024 – Present*
 
 * Lead multi-disciplinary engineering groups across API, Web, Mobile, Data, and GenAI platforms, fostering a high-performance and delivery-focused culture.

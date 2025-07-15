@@ -35,7 +35,7 @@ I'm passionate about solving business challenges with pragmatic but future-proof
 ## Work History
 
 ### Southern Cross Austereo
-**Engineering Manager**  
+**Engineering Manager - Architecture & Engineering Practice**  
 *June 2024 – Present*
 
 - Lead SCA's API, Web, Mobile, Data Engineering and GenAI platform groups, fostering a collaborative, high-performance, continuous improvement engineering culture.
